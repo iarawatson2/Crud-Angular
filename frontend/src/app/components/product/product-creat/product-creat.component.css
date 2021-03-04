@@ -1,0 +1,10 @@
+.botao{
+    margin-left: 1rem;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.creat{
+    margin-bottom: 1rem;
+}
